@@ -65,7 +65,10 @@ public class ArrayManipulations {
       for (int value : array) {
          System.out.printf("%d ", value);
       } 
-   } 
+   }
+   
+   //06-11-2024 Luis Miguel Pastoriza Gonzalez: Vuelvo a modificar un archivo.
+   System.out.println("Buenos días, esto es un cambio");
 } 
 
 

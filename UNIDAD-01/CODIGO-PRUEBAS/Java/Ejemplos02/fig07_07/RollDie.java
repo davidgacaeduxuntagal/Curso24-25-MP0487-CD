@@ -17,8 +17,12 @@ public class RollDie {
       // output each array element's value
       for (int face = 1; face < frequency.length; face++) {
          System.out.printf("%4d%10d%n", face, frequency[face]);
-      } 
-   } 
+      }
+      
+      
+   }
+   //06-11-2024 Luis Miguel Pastoriza González: Me equivoqué con el mensaje de commit :(
+   System.out.println("Me equivoqué con el mensaje de commit :("); 
 } 
 
 
