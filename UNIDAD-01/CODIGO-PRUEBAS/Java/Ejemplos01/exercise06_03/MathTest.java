@@ -22,7 +22,7 @@ public class MathTest {
       System.out.printf("Math.pow(2.0, 7.0) = %f%n", Math.pow(2.0, 7.0));
       System.out.printf("Math.pow(9.0, 0.5) = %f%n", Math.pow(9.0, 0.5));
       System.out.printf("Math.sin(0.0) = %f%n", Math.sin(0.0));
-      System.out.printf("Math.sqrt(900.0) = %f%n", Math.sqrt(900.0));
+      System.out.printf("Math.sqrt(900.0) = %f%n", Math.sqrt(800.0));
       System.out.printf("Math.tan(0.0) = %f%n", Math.tan(0.0));
    } 
 } 
